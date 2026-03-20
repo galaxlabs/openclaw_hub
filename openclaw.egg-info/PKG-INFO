@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: openclaw
+Version: 0.0.1
+Summary: OpenClaw learning/testing CLI
+Requires-Python: >=3.10

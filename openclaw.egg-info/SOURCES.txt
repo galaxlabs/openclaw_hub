@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+openclaw/__init__.py
+openclaw/ollama_client.py
+openclaw.egg-info/PKG-INFO
+openclaw.egg-info/SOURCES.txt
+openclaw.egg-info/dependency_links.txt
+openclaw.egg-info/entry_points.txt
+openclaw.egg-info/top_level.txt

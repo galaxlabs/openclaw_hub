@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openclaw"
+version = "0.0.1"
+description = "OpenClaw learning/testing CLI"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+openclaw = "openclaw.bin.openclaw:main"
+
+[tool.setuptools]
+packages = ["openclaw"]
